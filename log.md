@@ -4,7 +4,7 @@
 
 **Today's Progress**: Worked on the Landing pange of my portfolio[HTML and CSS].
 
-**Thoughts:** I am just getting started with the portfolio, you know everything seems to be going  pretty well.
+**Thoughts:** I am just getting started with the portfolio. Everything seems to be going  pretty well. However i have't figured out what to use as thr Logo for the website.
 
 **Link to work:** [Portfolio Website](https://isaacpitwa.netlify.app/)
 
