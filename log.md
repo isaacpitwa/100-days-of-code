@@ -9,3 +9,11 @@
 **Link to work:** [Portfolio Website](https://isaacpitwa.netlify.app/)
 
 
+### Day 1: July 05, 2020 
+
+**Today's Progress**: Worked on Statistics section for the home page[HTML and CSS].
+
+**Thoughts:**  Had little knowledge on creating slanting border-bottom using core css. Juts learned Clip css property.
+
+**Link to work:** [Portfolio Website](https://isaacpitwa.netlify.app/)
+
