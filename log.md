@@ -17,3 +17,11 @@
 
 **Link to work:** [Portfolio Website](https://isaacpitwa.netlify.app/)
 
+### Day 7: July 11, 2020 
+
+**Today's Progress**: Worked on footer  section for the home page[HTML and CSS].
+
+**Thoughts:**  It felt like a new experience restyling  HTML inputs for my contact form.
+
+**Link to work:** [Portfolio Website](https://isaacpitwa.netlify.app/)
+
